@@ -62,15 +62,15 @@ List<DropdownMenuItem<String>> dd = <DropdownMenuItem<String>>[
 ];
 
 List<calculadora> cal = <calculadora>[
-  calculadora("9", Colors.cyan, Icon(Icons.abc)),
-  calculadora("8", Colors.cyan, Icon(Icons.abc)),
   calculadora("7", Colors.cyan, Icon(Icons.abc)),
-  calculadora("6", Colors.cyan, Icon(Icons.abc)),
-  calculadora("5", Colors.cyan, Icon(Icons.abc)),
+  calculadora("8", Colors.cyan, Icon(Icons.abc)),
+  calculadora("9", Colors.cyan, Icon(Icons.abc)),
   calculadora("4", Colors.cyan, Icon(Icons.abc)),
-  calculadora("3", Colors.cyan, Icon(Icons.abc)),
-  calculadora("2", Colors.cyan, Icon(Icons.abc)),
+  calculadora("5", Colors.cyan, Icon(Icons.abc)),
+  calculadora("6", Colors.cyan, Icon(Icons.abc)),
   calculadora("1", Colors.cyan, Icon(Icons.abc)),
+  calculadora("2", Colors.cyan, Icon(Icons.abc)),
+  calculadora("3", Colors.cyan, Icon(Icons.abc)),
   calculadora("0", Colors.cyan, Icon(Icons.abc)),
   calculadora("Limpiar", Colors.cyan, Icon(Icons.cleaning_services)),
   calculadora("Calcular", Colors.cyan, Icon(Icons.calculate)),
